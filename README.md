@@ -1,5 +1,5 @@
 # LOGIN-SIGNUP 
-The UI'S of login , Sign up and forget password.
+The user interface of login , Sign up and forget password.
 
 ![image](https://user-images.githubusercontent.com/77974484/120310055-9524f200-c2f3-11eb-9e10-8af45cff7ee2.png)
 
